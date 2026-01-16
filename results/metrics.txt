@@ -1,0 +1,5 @@
+Test Loss: 0.0030
+Test Accuracy 0.9992
+Test Confusion Matrix (rows=true, cols=pred):
+2996 4
+1 2999
