@@ -14,7 +14,7 @@ This project implements a CNN-based binary classifier for concrete image analysi
 
 ### Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix_test.png)
 
 |                     | Predicted Negative | Predicted Positive |
 | ------------------- | ------------------ | ------------------ |
