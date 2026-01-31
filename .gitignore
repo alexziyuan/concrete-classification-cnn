@@ -31,3 +31,14 @@ Thumbs.db
 
 # Keep models folder structure but ignore large files if needed
 # models/*.keras  # Uncomment if model file is too large (>100MB)
+
+# Dataset images
+data/Negative/
+data/Positive/
+data/*.jpg
+data/*.png
+data/*.jpeg
+
+# Model checkpoints (keep final model)
+results/*.keras
+outputs/*.keras
